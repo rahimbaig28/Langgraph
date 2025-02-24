@@ -102,5 +102,5 @@ This project is licensed under the MIT License.
 ---
 
 ## **Contact**
-For any inquiries or collaborations, feel free to reach out at [your-email@example.com](mailto:rahimbaig00332211@Gmail.com).
+For any inquiries or collaborations, feel free to reach out at [rahimbaig00332211@Gmail.com](mailto:rahimbaig00332211@Gmail.com).
 
